@@ -1,0 +1,10 @@
+﻿  encrypt_decrypt.cpp
+C:\Users\david\Desktop\C++_projects\encrypt_decrypt\encrypt_decrypt.cpp(45,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\david\Desktop\C++_projects\encrypt_decrypt\encrypt_decrypt.cpp(49,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\david\Desktop\C++_projects\encrypt_decrypt\encrypt_decrypt.cpp(51,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\david\Desktop\C++_projects\encrypt_decrypt\encrypt_decrypt.cpp(52,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\david\Desktop\C++_projects\encrypt_decrypt\encrypt_decrypt.cpp(79,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\david\Desktop\C++_projects\encrypt_decrypt\encrypt_decrypt.cpp(94,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\david\Desktop\C++_projects\encrypt_decrypt\encrypt_decrypt.cpp(98,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\david\Desktop\C++_projects\encrypt_decrypt\encrypt_decrypt.cpp(127,19): warning C4018: '<': signed/unsigned mismatch
+  encrypt_decrypt.vcxproj -> C:\Users\david\Desktop\C++_projects\encrypt_decrypt\Debug\encrypt_decrypt.exe
